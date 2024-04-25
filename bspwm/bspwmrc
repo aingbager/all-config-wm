@@ -23,4 +23,4 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
-feh --bg-scale ~/.config/bspwm/2560x1440.png &
+feh --bg-scale ~/.config/bspwm/walpapper/wallhaven-3led2d.jpg &
