@@ -4,9 +4,6 @@ import = ["~/.config/alacritty/dracula.toml", "~/.config/alacritty/font.toml"]
 x = 2
 y = 2
 
-[font]
-size = 10
-
 [[keyboard.bindings]]
 action = "ScrollPageUp"
 key    = "PageUp"
