@@ -13,3 +13,7 @@ mods   = "Shift"
 action = "ScrollPageDown"
 key    = "PageDown"
 mods   = "Shift"
+
+[cursor]
+style = "beam"
+vi_mode_style = "beam"
